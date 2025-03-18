@@ -4,4 +4,4 @@ plotly
 requests
 numpy
 scikit-learn
-statsmodels
+statsmodels==0.14.0
